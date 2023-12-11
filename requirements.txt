@@ -1,5 +1,5 @@
-pip
-numpy
+pip==23.3.1
+numpy==1.19.5
 altair==5.2.0
 attrs==23.1.0
 blinker==1.7.0
